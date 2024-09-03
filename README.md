@@ -10,10 +10,15 @@ Efficient API calls using LangServe
 Technologies Used
 
 Groq: Provides the large language model for translations
+
 LangChain: Used for prompt engineering and chain composition
+
 LangServe: Facilitates easy API deployment
+
 Streamlit: Powers the user interface
+
 FastAPI: Provides the backend framework
+
 
 Setup
 
